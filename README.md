@@ -1,4 +1,4 @@
-# Updated Project Documentation: Active Directory Home Lab
+# Project Documentation: Active Directory Home Lab
 
 ## Introduction
 The Active Directory, Splunk, and Kali Linux Home Lab project has undergone significant enhancements to simulate a comprehensive environment for system administration, log management, and security testing. This documentation provides a detailed account of the updated setup, including the integration of a healthcare organization, "Cryptic Clinic," into the existing domain infrastructure.
